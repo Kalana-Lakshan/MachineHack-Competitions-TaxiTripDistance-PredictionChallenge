@@ -1,4 +1,5 @@
 # MachineHack Competitions – Taxi Trip Distance Prediction Challenge (Week 46)
+link - https://machinehack.com/hackathons/taxi_trip_distance_prediction_challenge
 
 Welcome to Week 46 of the Weekly MachineHack Hackathon Series!
 
